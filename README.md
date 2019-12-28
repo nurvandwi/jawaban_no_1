@@ -4,3 +4,7 @@
 
 
 5. Di file jawaban no 5 ada screenshot query sql untuk no 5
+
+
+
+6. untuk no 6 jawabannya yang berekstensi .php dan .sql
